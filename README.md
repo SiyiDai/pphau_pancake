@@ -33,7 +33,7 @@ To make a “perfect” pancake from zero
 Check here to see the [Story Line](https://gitlab.lrz.de/hai-group/students/pphau/sose22/groupb/pphau_group_b/-/wikis/Story%20Line)
 
 ## Project Structure
-![1](https://gitlab.lrz.de/hai-group/students/pphau/sose22/groupb/pphau_group_b/-/raw/main/Final%20Presentation/overall.png)
+![1](https://raw.githubusercontent.com/SiyiDai/pphau_pancake/main/Final%20Presentation/overall.png)
 
 
 ### Pipeline Overview
